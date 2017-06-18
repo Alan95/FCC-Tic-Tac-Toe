@@ -1,0 +1,132 @@
+body {
+    margin: 0 auto;
+    padding: 0;
+    position: relative;
+    color: white;
+    text-align: center;
+    font-size: 60px;
+    font-weight: bold;
+}
+h1 {
+    font-weight: bold;
+    color: black;
+    text-align: center;
+    margin-top: 10%;
+    font-size: 55px;
+}
+#board {
+    background: url("http://elemisdesign.com/img/119/1.jpg");
+    max-width: 45%;
+    height: 450px;
+    margin: 0 auto;
+    padding: 0;
+    margin-top: 5%;
+    border-radius: 2%;
+    padding-top: 25px;
+}
+#platform {
+    margin: 0 auto;
+    padding: 0;
+    max-width: 90%;
+    height: 400px;
+    background-color: black;
+    border-radius: 2%;
+}
+.top {
+    background-color: black;
+    height: 33%;
+}
+.b1 {
+    background-color: black;
+    height: 100%;
+    width: 33.3337%;
+    float: left;
+}
+.b2 {
+    background-color: black;
+    height: 100%;
+    width: 33.3337%;
+    margin: 0 auto;
+    border-left: 1px solid white;
+    border-right: 1px solid white;
+    float: left;
+}
+.b3 {
+    background-color: black;
+    height: 100%;
+    width: 33.3337%;
+    float: left;
+}
+.middle {
+    float: left;
+    background-color: black;
+    height: 33.3%;
+    width: 100%;
+    border-bottom: 1px solid white;
+    border-top: 1px solid white;
+}
+.b4 {
+    background-color: black;
+    height: 100%;
+    width: 33.3337%;
+    float: left;
+}
+.b5 {
+    background-color: black;
+    height: 100%;
+    width: 33.3337%;
+    margin: 0 auto;
+    border-left: 1px solid white;
+    border-right: 1px solid white;
+    float: left;
+}
+.b6 {
+    background-color: black;
+    height: 100%;
+    width: 33.3337%;
+    float: left;
+}
+.bottom {
+    float: left;
+    background-color: black;
+    height: 33.3337%;
+    width: 100%;
+}
+.b7 {
+    background-color: black;
+    height: 100%;
+    width: 33.3337%;
+    float: left;
+}
+.b8 {
+    background-color: black;
+    height: 100%;
+    width: 33.3337%;
+    margin: 0 auto;
+    border-left: 1px solid white;
+    border-right: 1px solid white;
+    float: left;
+}
+.b9 {
+    background-color: black;
+    height: 100%;
+    width: 33.3337%;
+    float: left;
+}
+.window {
+    margin: 0 auto;
+    width: 41%;
+    height: 401px;
+    background-color: #f4f4f4;
+    position: fixed;
+    color: black;
+    
+}
+p {
+    font-size: 40px;
+}
+.btn-primary {
+    padding: 20px;
+    font-size: 30px;
+    
+}
